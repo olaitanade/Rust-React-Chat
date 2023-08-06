@@ -1,4 +1,5 @@
 /target
+/static
 
 /ui/node_modules
 /ui/.pnp
