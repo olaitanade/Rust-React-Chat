@@ -1,1 +1,34 @@
 /target
+
+/ui/node_modules
+/ui/.pnp
+/ui/.pnp.js
+
+# testing
+/ui/coverage
+
+# next.js
+/ui/.next/
+/ui/out/
+
+# production
+/ui/build
+
+# misc
+/ui/.DS_Store
+/ui/*.pem
+
+# debug
+/ui/npm-debug.log*
+/ui/yarn-debug.log*
+/ui/yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+/ui/.vercel
+
+# typescript
+/ui/*.tsbuildinfo
+/ui/next-env.d.ts
