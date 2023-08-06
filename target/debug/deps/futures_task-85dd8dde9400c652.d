@@ -1,0 +1,11 @@
+/Users/mac/Documents/Learning/Chat-Rust-React/Server/rust-react-chat/target/debug/deps/futures_task-85dd8dde9400c652.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/spawn.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/arc_wake.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker_ref.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/future_obj.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/mac/Documents/Learning/Chat-Rust-React/Server/rust-react-chat/target/debug/deps/futures_task-85dd8dde9400c652.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/spawn.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/arc_wake.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker_ref.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/future_obj.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/spawn.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/arc_wake.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker_ref.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/future_obj.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/noop_waker.rs:

@@ -1,0 +1,1 @@
+diesel::query_builder::where_clause::WhereClause<expression::grouped::Grouped<expression::operators::Eq<schema::rooms::columns::id, expression::bound::Bound<diesel::sql_types::Text, &std::string::String>>>>
