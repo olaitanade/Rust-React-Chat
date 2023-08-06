@@ -1,1 +1,0 @@
-ReturningClause<(schema::rooms::columns::id, schema::rooms::columns::name, schema::rooms::columns::last_message, schema::rooms::columns::participant_ids, schema::rooms::columns::created_at)>

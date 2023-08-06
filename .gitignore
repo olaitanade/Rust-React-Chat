@@ -1,5 +1,6 @@
 /target
 /static
+chat.db
 
 /ui/node_modules
 /ui/.pnp

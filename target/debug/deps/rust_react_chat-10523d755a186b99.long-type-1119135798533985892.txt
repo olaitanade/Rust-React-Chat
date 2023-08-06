@@ -1,1 +1,0 @@
-expression::operators::Eq<schema::rooms::columns::participant_ids, itertools::Format<'_, std::collections::btree_set::Iter<'_, &str>>>
